@@ -1,0 +1,17 @@
+{
+    "name": "user-service",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon ./index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "body-parser": "^2.2.2",
+        "express": "^5.2.1",
+        "mongoose": "^9.1.2"
+    }
+}
